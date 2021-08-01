@@ -2,5 +2,8 @@
   "devDependencies": {
     "cypress": "^8.0.0",
     "mocha": "^9.0.3"
+  },
+  "scripts": {
+    "e2e": "cypress open"
   }
 }
